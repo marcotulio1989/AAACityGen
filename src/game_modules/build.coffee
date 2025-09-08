@@ -8,7 +8,7 @@ math = require('generic_modules/math')
 util = require('generic_modules/utility')
 
 config = require('game_modules/config')
-mapgen = require('game_modules/mapgen')
+mapgen = require('game_modules/road_network_generator')
 
 class Building
   @Type:

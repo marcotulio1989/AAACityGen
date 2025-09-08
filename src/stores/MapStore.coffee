@@ -1,6 +1,6 @@
 merge = require('react/lib/merge')
 
-mapgen = require('game_modules/mapgen')
+mapgen = require('game_modules/road_network_generator')
 
 AppDispatcher = require('../dispatcher/AppDispatcher')
 EventEmitter = require('events').EventEmitter

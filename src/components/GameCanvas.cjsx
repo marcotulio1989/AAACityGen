@@ -12,7 +12,7 @@ astar = require('generic_modules/astar')
 
 build = require('game_modules/build')
 config = require('game_modules/config')
-mapgen = require('game_modules/mapgen')
+mapgen = require('game_modules/road_network_generator')
 
 Constants = require('../dispatcher/Constants')
 MapActions = require('../actions/MapActions')
